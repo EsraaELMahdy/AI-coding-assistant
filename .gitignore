@@ -1,0 +1,5 @@
+app.env
+chroma_db/
+__pycache__/
+.venv/
+memory.json
